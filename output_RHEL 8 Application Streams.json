@@ -1,0 +1,446 @@
+[
+    {
+        "Retirement Date": "Nov 2023",
+        "Release": "8.6.0",
+        "Application Stream": "Ansible Core",
+        "Release Date": "May 2022"
+    },
+    {
+        "Retirement Date": "May 2021",
+        "Release": "8.0.0",
+        "Application Stream": "authd 1.4.4",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "May 2021",
+        "Release": "8.0.0",
+        "Application Stream": "container-tools 1.0",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "May 2022",
+        "Release": "8.2.0",
+        "Application Stream": "container-tools 2.0",
+        "Release Date": "May 2020"
+    },
+    {
+        "Retirement Date": "May 2023",
+        "Release": "8.4.0",
+        "Application Stream": "container-tools 3.0",
+        "Release Date": "May 2021"
+    },
+    {
+        "Retirement Date": "May 2024",
+        "Release": "8.6.0",
+        "Application Stream": "container-tools 4.0",
+        "Release Date": "May 2022"
+    },
+    {
+        "Retirement Date": "Aug 2021",
+        "Release": "8.0.0",
+        "Application Stream": ".NET 2.1",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "Mar 2020",
+        "Release": "8.1.0",
+        "Application Stream": ".NET 3.0",
+        "Release Date": "Nov 2019"
+    },
+    {
+        "Retirement Date": "Dec 2022",
+        "Release": "8.1.1",
+        "Application Stream": ".NET 3.1",
+        "Release Date": "Feb 2020"
+    },
+    {
+        "Retirement Date": "May 2022",
+        "Release": "8.3.0",
+        "Application Stream": ".NET 5.0",
+        "Release Date": "Nov 2020"
+    },
+    {
+        "Retirement Date": "Nov 2024",
+        "Release": "8.5.0",
+        "Application Stream": ".NET 6.0",
+        "Release Date": "Nov 2021"
+    },
+    {
+        "Retirement Date": "May 2024",
+        "Release": "8.7.0",
+        "Application Stream": ".NET 7.0",
+        "Release Date": "Nov 2022"
+    },
+    {
+        "Retirement Date": "Nov 2026",
+        "Release": "8.9",
+        "Application Stream": ".NET 8.0",
+        "Release Date": "Nov 2023"
+    },
+    {
+        "Retirement Date": "May 2026",
+        "Release": "8.10",
+        "Application Stream": ".NET 9.0",
+        "Release Date": "May 2024"
+    },
+    {
+        "Retirement Date": "Nov 2022",
+        "Release": "8.3.0",
+        "Application Stream": "gcc-toolset 10",
+        "Release Date": "Nov 2020"
+    },
+    {
+        "Retirement Date": "Nov 2023",
+        "Release": "8.5.0",
+        "Application Stream": "gcc-toolset 11",
+        "Release Date": "Nov 2021"
+    },
+    {
+        "Retirement Date": "Nov 2024",
+        "Release": "8.7.0",
+        "Application Stream": "gcc-toolset 12",
+        "Release Date": "Nov 2022"
+    },
+    {
+        "Retirement Date": "Nov 2025",
+        "Release": "8.9",
+        "Application Stream": "gcc-toolset 13",
+        "Release Date": "Nov 2023"
+    },
+    {
+        "Retirement Date": "Nov 2026",
+        "Release": "8.10",
+        "Application Stream": "gcc-toolset 14",
+        "Release Date": "May 2024"
+    },
+    {
+        "Retirement Date": "Nov 2021",
+        "Release": "8.1.0",
+        "Application Stream": "gcc-toolset 9",
+        "Release Date": "Nov 2019"
+    },
+    {
+        "Retirement Date": "May 2026",
+        "Release": "8.0.0",
+        "Application Stream": "OpenJDK 8",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "Oct 2024",
+        "Release": "8.0.0",
+        "Application Stream": "OpenJDK 11",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "Dec 2027",
+        "Release": "8.5",
+        "Application Stream": "OpenJDK 17",
+        "Release Date": "Nov 2021"
+    },
+    {
+        "Retirement Date": "Dec 2029",
+        "Release": "8.9",
+        "Application Stream": "OpenJDK 21",
+        "Release Date": "Nov 2023"
+    },
+    {
+        "Retirement Date": "Jun 2024",
+        "Release": "8.0.0",
+        "Application Stream": "Mailman 2.1",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "May 2028",
+        "Release": "8.10",
+        "Application Stream": "MariaDB 10.11",
+        "Release Date": "May 2024"
+    },
+    {
+        "Retirement Date": "May 2026",
+        "Release": "8.4.0",
+        "Application Stream": "MariaDB 10.5",
+        "Release Date": "May 2021"
+    },
+    {
+        "Retirement Date": "May 2022",
+        "Release": "8.0.0",
+        "Application Stream": "Maven 3.5",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "Apr 2023",
+        "Release": "8.2.0",
+        "Application Stream": "Maven 3.6",
+        "Release Date": "May 2020"
+    },
+    {
+        "Retirement Date": "Nov 2025",
+        "Release": "8.7.0",
+        "Application Stream": "Maven 3.8",
+        "Release Date": "Nov 2022"
+    },
+    {
+        "Retirement Date": "Nov 2022",
+        "Release": "8.0.0",
+        "Application Stream": "Mercurial 4.8",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "Nov 2025",
+        "Release": "8.7.0",
+        "Application Stream": "Mercurial 6.2",
+        "Release Date": "Nov 2022"
+    },
+    {
+        "Retirement Date": "Apr 2026",
+        "Release": "8.0.0",
+        "Application Stream": "MySQL 8",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "May 2021",
+        "Release": "8.0.0",
+        "Application Stream": "NGINX 1.14",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "Oct 2021",
+        "Release": "8.1.0",
+        "Application Stream": "NGINX 1.16",
+        "Release Date": "Nov 2019"
+    },
+    {
+        "Retirement Date": "Nov 2022",
+        "Release": "8.3.0",
+        "Application Stream": "NGINX 1.18",
+        "Release Date": "Nov 2020"
+    },
+    {
+        "Retirement Date": "Nov 2023",
+        "Release": "8.5.0",
+        "Application Stream": "NGINX 1.20",
+        "Release Date": "Nov 2021"
+    },
+    {
+        "Retirement Date": "Nov 2025",
+        "Release": "8.8",
+        "Application Stream": "NGINX 1.22",
+        "Release Date": "May 2023"
+    },
+    {
+        "Retirement Date": "May 2029",
+        "Release": "8.10",
+        "Application Stream": "NGINX 1.24",
+        "Release Date": "May 2024"
+    },
+    {
+        "Retirement Date": "Apr 2021",
+        "Release": "8.0.0",
+        "Application Stream": "Node.js 10",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "Apr 2022",
+        "Release": "8.1.0",
+        "Application Stream": "Node.js 12",
+        "Release Date": "Nov 2019"
+    },
+    {
+        "Retirement Date": "Apr 2023",
+        "Release": "8.3.0",
+        "Application Stream": "Node.js 14",
+        "Release Date": "Nov 2020"
+    },
+    {
+        "Retirement Date": "Apr 2024",
+        "Release": "8.5.0",
+        "Application Stream": "Node.js 16",
+        "Release Date": "Nov 2021"
+    },
+    {
+        "Retirement Date": "Apr 2025",
+        "Release": "8.7.0",
+        "Application Stream": "Node.js 18",
+        "Release Date": "Nov 2022"
+    },
+    {
+        "Retirement Date": "Apr 2026",
+        "Release": "8.9",
+        "Application Stream": "Node.js 20",
+        "Release Date": "Nov 2023"
+    },
+    {
+        "Retirement Date": "Apr 2027",
+        "Release": "8.10",
+        "Application Stream": "Node.js 22",
+        "Release Date": "May 2024"
+    },
+    {
+        "Retirement Date": "May 2021",
+        "Release": "8.0.0",
+        "Application Stream": "Perl 5.24",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "Nov 2023",
+        "Release": "8.3.0",
+        "Application Stream": "Perl 5.30",
+        "Release Date": "Nov 2020"
+    },
+    {
+        "Retirement Date": "Apr 2025",
+        "Release": "8.6.0",
+        "Application Stream": "Perl 5.32",
+        "Release Date": "May 2022"
+    },
+    {
+        "Retirement Date": "May 2021",
+        "Release": "8.0.0",
+        "Application Stream": "PHP 7.2",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "Nov 2021",
+        "Release": "8.1.0",
+        "Application Stream": "PHP 7.3",
+        "Release Date": "Nov 2019"
+    },
+    {
+        "Retirement Date": "Nov 2024",
+        "Release": "8.6.0",
+        "Application Stream": "PHP 8.0",
+        "Release Date": "May 2022"
+    },
+    {
+        "Retirement Date": "May 2029",
+        "Release": "8.10",
+        "Application Stream": "PHP 8.2",
+        "Release Date": "May 2024"
+    },
+    {
+        "Retirement Date": "May 2024",
+        "Release": "8.0.0",
+        "Application Stream": "PostgreSQL 10",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "May 2026",
+        "Release": "8.4.0",
+        "Application Stream": "PostgreSQL 13",
+        "Release Date": "May 2021"
+    },
+    {
+        "Retirement Date": "May 2028",
+        "Release": "8.8",
+        "Application Stream": "PostgreSQL 15",
+        "Release Date": "May 2023"
+    },
+    {
+        "Retirement Date": "May 2029",
+        "Release": "8.10",
+        "Application Stream": "PostgreSQL 16",
+        "Release Date": "May 2024"
+    },
+    {
+        "Retirement Date": "Nov 2021",
+        "Release": "8.0.0",
+        "Application Stream": "PostgreSQL 9.6",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "Jun 2024",
+        "Release": "8.0.0",
+        "Application Stream": "Python 2.7",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "May 2026",
+        "Release": "8.8",
+        "Application Stream": "Python 3.11",
+        "Release Date": "May 2023"
+    },
+    {
+        "Retirement Date": "May 2029",
+        "Release": "8.10",
+        "Application Stream": "Python 3.12",
+        "Release Date": "May 2024"
+    },
+    {
+        "Retirement Date": "May 2023",
+        "Release": "8.2.0",
+        "Application Stream": "Python 3.8",
+        "Release Date": "May 2020"
+    },
+    {
+        "Retirement Date": "Nov 2025",
+        "Release": "8.4.0",
+        "Application Stream": "Python 3.9",
+        "Release Date": "May 2021"
+    },
+    {
+        "Retirement Date": "May 2022",
+        "Release": "8.0.0",
+        "Application Stream": "Redis 5",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "Mar 2022",
+        "Release": "8.1.0",
+        "Application Stream": "Ruby 2.6",
+        "Release Date": "Nov 2019"
+    },
+    {
+        "Retirement Date": "Mar 2023",
+        "Release": "8.3.0",
+        "Application Stream": "Ruby 2.7",
+        "Release Date": "Nov 2020"
+    },
+    {
+        "Retirement Date": "Mar 2024",
+        "Release": "8.5.0",
+        "Application Stream": "Ruby 3.0",
+        "Release Date": "Nov 2021"
+    },
+    {
+        "Retirement Date": "Mar 2025",
+        "Release": "8.7.0",
+        "Application Stream": "Ruby 3.1",
+        "Release Date": "Nov 2022"
+    },
+    {
+        "Retirement Date": "Mar 2027",
+        "Release": "8.10",
+        "Application Stream": "Ruby 3.3",
+        "Release Date": "May 2024"
+    },
+    {
+        "Retirement Date": "May 2023",
+        "Release": "8.0.0",
+        "Application Stream": "Scala 2.1",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "May 2024",
+        "Release": "8.4.0",
+        "Application Stream": "Apache Subversion 1.14",
+        "Release Date": "May 2021"
+    },
+    {
+        "Retirement Date": "May 2022",
+        "Release": "8.0.0",
+        "Application Stream": "SWIG 3",
+        "Release Date": "May 2019"
+    },
+    {
+        "Retirement Date": "May 2024",
+        "Release": "8.4.0",
+        "Application Stream": "SWIG 4",
+        "Release Date": "May 2021"
+    },
+    {
+        "Retirement Date": "May 2027",
+        "Release": "8.8",
+        "Application Stream": "SWIG 4.1",
+        "Release Date": "May 2023"
+    }
+]
